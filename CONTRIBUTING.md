@@ -6,17 +6,17 @@ The following is a set of guidelines for contributing to Christopher and its pac
 
 ### Table Of Contents
 
-Code of Conduct
+[Code of Conduct]()
 
 I don't want to read this whole thing, I just have a question!
 
 What should I know before I get started?
 
 How can I contribute?
-	- Reporting Bugs 👾
-	- Suggesting Enhancements 🛠
-	- Your First Code Contribution 👩‍💻
-	- Pull Requests 🧙‍♂️
+- Reporting Bugs 👾
+- Suggesting Enhancements 🛠
+- Your First Code Contribution 👩‍💻
+- Pull Requests 🧙‍♂️
 
 Additional Notes
 
