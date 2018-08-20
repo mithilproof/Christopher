@@ -10,17 +10,17 @@ The following is a set of guidelines for contributing to Christopher and its pac
 
 I don't want to read this whole thing, I just have a question!
 
-What should I know before I get started?
+[What should I know before I get started?]()
 
-How can I contribute?
+[How can I contribute?]()
 - Reporting Bugs 👾
 - Suggesting Enhancements 🛠
 - Your First Code Contribution 👩‍💻
 - Pull Requests 🧙‍♂️
 
-Additional Notes
+[Additional Notes]()
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the Stem Code of Conduct. By participating,you are expected to uphold this code. Please report unacceptable behaviour to [mithil@pm.me].
+This project and everyone participating in it is governed by the Stem Code of Conduct. By participating,you are expected to uphold this code. Please report unacceptable behaviour to [mithil@pm.me]().
 
