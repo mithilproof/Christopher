@@ -1,2 +1,0 @@
-# ChristopherArch
-Architecture of Christopher.
