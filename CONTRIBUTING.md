@@ -35,4 +35,4 @@ We are working on an official message board with a detailed FAQ and where the co
 ## What should I know before I get started?
 
 ### Christopher
-We are tring to solve illiteracy and this is not an easy job. 
+We are tring to solve illiteracy and this is not an easy job. There is no certain syllabus to know about what a **_contributor_** should know, any contribution in terms is appreciated.
