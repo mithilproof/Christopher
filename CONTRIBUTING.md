@@ -15,8 +15,8 @@ I don't want to read this whole thing, I just have a question!
 [How can I contribute?]()
 - Reporting Bugs 👾
 - Suggesting Enhancements 🛠
-- Your First Code Contribution 👩‍💻
-- Pull Requests 🧙‍♂️
+- Your First Code Contribution :baby:
+- Pull Requests :mortar_board:
 
 [Additional Notes]()
 
