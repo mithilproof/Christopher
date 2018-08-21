@@ -35,4 +35,32 @@ We are working on an official message board with a detailed FAQ and where the co
 ## What should I know before I get started?
 
 ### Christopher
-We are tring to solve illiteracy and this is not an easy job. There is no certain syllabus to know about what a **_contributor_** should know, any contribution in terms is appreciated.
+We are tring to solve illiteracy and this is not an easy job. There is no certain syllabus to know about what a **_contributor_** should know. But we tried very hard to refine the role of developers. 
+
+### Design Decisions
+When we make a significant decision in how we maintain the project and what we can or can not support, we will document it in the [christopher/design-decision repo](). If you have a question around how we do things, check to see if it is documented there. If it is _not_ documented there, please open a new topic on [Discuss, the official stemAI message board]() and ask your questions.
+
+## How can I contribute?
+
+### Reporting Bugs 👾
+This section guides you through submitting a bug report for Christopher. Following these guidelines helps maintainers and community understand your report :pencil:, reproduce the behaviour :construction:, and find related reports :mag_right:.
+
+Before creating bug report, please check [this list]() as you might find out that you don't need to create one. When you're creating a bug report, please [include as many details as possible.](). Fill out the [required template](), the information it ask for helps us resolve issues faster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
