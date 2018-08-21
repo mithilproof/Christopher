@@ -26,7 +26,7 @@ This project and everyone participating in it is governed by the [Stem Code of C
 
 ## I don't want to read this whole thing, I just have a question!
 
-> Please don't file an issue to ask a question. You'll get faster results by using the resouqrces provided below.
+> Please don't file an issue to ask a question. You'll get faster results by using the resources provided below.
 
 We are working on an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
 - [Slack channel]().
