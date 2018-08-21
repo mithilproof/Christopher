@@ -13,10 +13,10 @@ The following is a set of guidelines for contributing to Christopher and its pac
 [What should I know before I get started?]()
 
 [How can I contribute?]()
-- Reporting Bugs 👾
-- Suggesting Enhancements 🛠
-- Your First Code Contribution :baby:
-- Pull Requests :mortar_board:
+- [Reporting Bugs 👾]()
+- [Suggesting Enhancements 🛠]()
+- [Your First Code Contribution :baby:]()
+- [Pull Requests :mortar_board:]()
 
 [Additional Notes]()
 
