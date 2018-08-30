@@ -56,6 +56,7 @@ Before creating bug report, please check [this list]() as you might find out tha
 - Perform a cursory search to see the problem has already been reported. If it has and the issue is still open, add a comment to the exisiting issue instead of opening a new one.
 
 **How Do I Submit A (Good) Bug Report?**
+
 Bugs are tracked as GitHub issue. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
 
 Explain the problem and include additional details to help maitainers reproduce the problem:
