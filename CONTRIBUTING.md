@@ -50,10 +50,10 @@ Before creating bug report, please check [this list]() as you might find out tha
 
 **Before Submitting A Bug Report**
 	
-	- Check the debugging guide. You might be able to find the cause of the problem and fix things yourself. Most importantly, check if you can reproduce the problem in the lastest version of Christopher.
-	- Check the FAQs on the forum for a list of common questions and problems.
-	- Determine which repository the problem should be reported in.
-	- Perform a cursory search to see the problem has already been reported. If it has and the issue is 	  still open, add a comment to the exisiting issue instead of opening a new one.
+- Check the debugging guide. You might be able to find the cause of the problem and fix things yourself. Most importantly, check if you can reproduce the problem in the lastest version of Christopher.
+- Check the FAQs on the forum for a list of common questions and problems.
+- Determine which repository the problem should be reported in.
+- Perform a cursory search to see the problem has already been reported. If it has and the issue is still open, add a comment to the exisiting issue instead of opening a new one.
 
 **How Do I Submit A (Good) Bug Report?**
 Bugs are tracked as GitHub issue. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in the template.
