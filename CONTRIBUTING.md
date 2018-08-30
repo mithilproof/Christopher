@@ -45,9 +45,14 @@ When we make a significant decision in how we maintain the project and what we c
 ### Reporting Bugs 👾
 This section guides you through submitting a bug report for Christopher. Following these guidelines helps maintainers and community understand your report :pencil:, reproduce the behaviour :construction:, and find related reports :mag_right:.
 
-Before creating bug report, please check [this list]() as you might find out that you don't need to create one. When you're creating a bug report, please [include as many details as possible.](). Fill out the [required template](), the information it ask for helps us resolve issues faster.
-					
+Before creating bug report, please check [this list]() as you might find out that you don't need to create one. When you're creating a bug report, please [include as many details as possible.](). Fill out the [required template](Christopher/.github/ISSUE_TEMPLATE/bug_report.md), the information it ask for helps us resolve issues faster.
+> **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
+**Before Submitting A Bug Report**
+ 
+
+					
+### Suggesting Enhancements 🛠
 
 
 
