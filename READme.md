@@ -1,4 +1,4 @@
-## :warning: Repo is under construction. Watch your steps! :construction_worker:
+## :warning: This Repo is under construction. Watch your steps! :construction_worker:
 
 ## Christopher 
 
