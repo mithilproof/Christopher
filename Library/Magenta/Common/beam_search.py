@@ -77,7 +77,32 @@ def beam_search(initial_sequence, initial_state, generate, generate_step_fn, num
 
 	After the final iteration, the single sequence inthe beam with highest likelihood will be 
 	returned.
-			
+
+	The 'generated_step_fn' function operates on the list of sequences + states + scores 
+	rather than single sequences. This is to allow for the possibility of batching.
+
+	Args:
+		initial_sequence: The initial sequence, a python list-like object.
+		initial_state: The state corresponding to the initial sequence, with any auxiliary 
+				information needed for extending the sequence.
+		generated_step_fn: A function that takes three parameters: a list of sequences, 
+				a list of states, a list of scores, all of them of same size.
+				The function should generate a single step for each of the sequences and
+				return the extended sequences, updated states, and updated (total) scores, as three lists.
+		num_steps: The integer length in steps of the final sequence, after generation.
+		beam_size: The integer beam size to use.
+		branch_factor: The integer branch factor to use.
+		steps_per_iteration: The integer number of steps to take per iteration.
+
+	Returns:
+		A tuple containg a) the highest-scoring sequence as computed by the beam search,
+		b) the state corresponding to this sequence, and c) the score of this sequence.
+		"""
+
+	sequences = [copy.deepcopy(initial_sequence) for _ in range(beam_size)]
+	states = [copy.deepcopy(initial_state) for _ in range(beam_size)]
+	scores = [0] * beam_size
+	
 
 
 
