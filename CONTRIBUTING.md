@@ -29,8 +29,8 @@ This project and everyone participating in it is governed by the [Stem Code of C
 > Please don't file an issue to ask a question. You'll get faster results by using the resources provided below.
 
 We are working on an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
-- [Slack channel]().
-- [Discuss, the official stemAI message board]().
+- [Slack channel](https://stemai.herokuapp.com/).
+- [Discuss, the official stemAI message board](community@stemai.org).
 
 ## What should I know before I get started?
 

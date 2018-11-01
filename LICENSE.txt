@@ -1,11 +1,5 @@
 
-<<<<<<< HEAD
-Copyright [2018] [Mithil Verma].  All Rights Reserved.
-Mithil Verma and stemAI or stem.ai or StemAI are the same entities.
-=======
-   Copyright [2018] [Mithil Verma].  All Rights Reserved.
    Mithil Verma and stemAI or stem.ai or StemAI are the same entities.
->>>>>>> 44a83e7807747877b0e4762fd39a643053e4781c
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
