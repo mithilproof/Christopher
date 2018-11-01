@@ -102,10 +102,30 @@ def beam_search(initial_sequence, initial_state, generate, generate_step_fn, num
 	sequences = [copy.deepcopy(initial_sequence) for _ in range(beam_size)]
 	states = [copy.deepcopy(initial_state) for _ in range(beam_size)]
 	scores = [0] * beam_size
-	
 
+	beam_entries = [BeamEntry(sequence, state, score)
+					for sequence, state, score 
+					in zip(sequence, state, scores)]
+	# Choose the number of steps for the first iteration such that subsequent 
+	# iterations can all take the same number if steps.
 
+	first_iteration_num_steps = (num_steps - 1) % steps_per_iteration + 1
 
+	beam_entries = _generate_branches(
+		beam_entries, generate_step_fn, branch_factor, first_iteration_num_steps)
+
+	num_iterations = (num_steps -
+                    first_iteration_num_steps) // steps_per_iteration
+
+  for _ in range(num_iterations):
+    beam_entries = _prune_branches(beam_entries, k=beam_size)
+    beam_entries = _generate_branches(
+        beam_entries, generate_step_fn, branch_factor, steps_per_iteration)
+
+  # Prune to the single best beam entry.
+  beam_entry = _prune_branches(beam_entries, k=1)[0]
+
+  return beam_entry.sequence, beam_entry.state, beam_entry.score
 
 
 
