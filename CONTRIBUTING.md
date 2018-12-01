@@ -22,7 +22,7 @@ The following is a set of guidelines for contributing to Christopher and its pac
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Stem Code of Conduct](). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mithil@pm.me]().
+This project and everyone participating in it is governed by the [stemAI Code of Conduct](). By participating, you are expected to uphold this code. Please report unacceptable behavior to [community@stemai.org]().
 
 ## I don't want to read this whole thing, I just have a question!
 
