@@ -1,6 +1,6 @@
 ### Documentation
 
-Link to Documentation in PDF : [_stemai.github.io/docs_]()
+Link to Documentation in PDF : [_stemai.github.io/_]()
 
 The challange is to make beatiful and engaging activities that helps children learn.. period. 
 We decided to stick to web based interface hence we are using TensorFlow.js and JavaScript implementation of Magenta. 
