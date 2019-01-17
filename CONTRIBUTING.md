@@ -16,7 +16,7 @@ The following is a set of guidelines for contributing to Christopher and its pac
 - [Your First Code Contribution :baby:]()
 - [Pull Requests :mortar_board:]()
 
-[Additional Notes]()
+
 
 ## Code of Conduct
 
