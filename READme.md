@@ -1,9 +1,7 @@
-## :warning: This Repo is under construction. Watch your steps! :construction_worker:
+## Christopher
 
-## Christopher 
+**Christopher** is a research project exploring the role of Artificial Intelligence in solving the global problem of **_illiteracy_**. Primarily this involves developing new machine intelligent tools and techniques to make children learn without need to be taught how. It is also an exploration in building smarter interfaces through state-of-the-art symbolic design languages that allow children with no reading and writing experience to learn. Also with this model we believe, teachers and educators would extend their processes of teaching and delivering new techniques.
 
-**Christopher** is a research project exploring the role of Artificial Intelligence in solving the global problem of **_illiteracy_**. Primarily this involves developing new machine intelligent tools and techniques to make children learn with 100% *human-free* and *non-verbal* methodologies. But it's also an exploration in building smarter interfaces that allow teachers and educators to extend their processes of teaching and delivering new techniques using these models. We use [Tensorflow](https://www.tensorflow.org/) and [Megenta](https://magenta.tensorflow.org/) as our supporting libraries and release our models and tools in open source on this GitHub repository. If you would like to learn more about Christopher, check out our [blog](https://medium.com/stemai), where we post technical details. You can also join our discussion group.
+The repo is mostly under construction and we do not release our code uniformly. If you wish get the access of private repo, please contact the maintainer at hi@stemai.org.
 
-We also keep posting our research in AI and Cognitive Sciences. Feel free to check in at medium.com/stemai. Thank you, you guys means alot. :tada:	
-
-
+We also keep posting our research in AI and Cognitive Sciences. Feel free to check in at medium.com/stemai. Thank you, you guys means alot. :tada:
