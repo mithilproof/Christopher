@@ -9,7 +9,7 @@
 #                                                                     
 #
 # Edits for personlised use by stemAI
-#
+# For more information please visit stemai.org
 #
 #
 #
