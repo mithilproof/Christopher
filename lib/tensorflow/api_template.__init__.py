@@ -1,3 +1,13 @@
+#    _____ _          _     _              _               
+#   / ____| |        (_)   | |            | |              
+#  | |    | |__  _ __ _ ___| |_ ___  _ __ | |__   ___ _ __ 
+#  | |    | '_ \| '__| / __| __/ _ \| '_ \| '_ \ / _ \ '__|
+#  | |____| | | | |  | \__ \ || (_) | |_) | | | |  __/ |   
+#   \_____|_| |_|_|  |_|___/\__\___/| .__/|_| |_|\___|_|   
+#                                   | |                    
+#                                   |_|                    
+#
+# Edits for customisations by stemAI.
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
