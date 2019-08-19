@@ -1,5 +1,17 @@
-# Copyright 2015 The TensorFlow Authors. All Rights Reserved.
+#    _____ _          _     _              _               
+#   / ____| |        (_)   | |            | |              
+#  | |    | |__  _ __ _ ___| |_ ___  _ __ | |__   ___ _ __ 
+#  | |    | '_ \| '__| / __| __/ _ \| '_ \| '_ \ / _ \ '__|
+#  | |____| | | | |  | \__ \ || (_) | |_) | | | |  __/ |   
+#   \_____|_| |_|_|  |_|___/\__\___/| .__/|_| |_|\___|_|   
+#                                   | |                    
+#                                   |_|                    
+#                                                                     
+# 
+# Edits and customisations for stemAI
+# For more information please visit stemai.org
 #
+# Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
