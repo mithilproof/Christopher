@@ -1,4 +1,5 @@
-// edits for stemAI internal uses 
+// edits for stemAI internal usecase
+// Fork on GitHub at github.com/stemai
 
 /* Copyright 2016 The TensorFlow Authors. All Rights Reserved.
 
