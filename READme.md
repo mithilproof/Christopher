@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-                                                                                                                                                                                                                               
+                                                                                                                                                                                                           
 #                                                 -.      .+/o+.      .-                                             
 #                                                  -.   .ohysssds-   -.                                                  
 #                                                   \\ `NMMoNmhmMM. //                                                   
@@ -35,6 +33,4 @@
 #                                                          .s/s                                                          
 #                                                           oo:                                                          
 #                                                                                                                        
-#                                        
-## Christopher
->>>>>>> 0005f36c50627ffcf65e2495ac3973b0da73adf5
+
